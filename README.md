@@ -1,17 +1,6 @@
 
 <div align="left">
   <h1>Olá, sou Josué </h1>
-  📖Estou estudando Front-End / Back-end
-   <br>
-  👨‍💻Quero trabalhar como Programador
-    <br>
-  😎Tenho 24 anos
-   <br>
-  👨🏻‍🎓Graduado em Tecnologia da Informação 
-  <br>
-  👨🏻‍🎓Pós-graduação Engenharia de Software
-  <br>
-  📚Graduando Análise e Desenvolvimento de Sistemas
   
 </div>
 
